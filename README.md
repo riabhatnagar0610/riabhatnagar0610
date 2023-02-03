@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riabhatnagar0610
-- 👀 I’m a data analysis enthusiast and I'm interested in web development
+- 👀 I’m a data science and machine learning enthusiast 
 - 🌱 I’m currently learning the technicalities of the new age
 - 💞️ I’m looking to collaborate on your interesting projects
 - 📫 How to reach me email me @ riabhatnagar0610@gmail.com
