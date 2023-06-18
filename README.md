@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flask and RNN Models**
 
-- 👨‍💻 All of my projects are available at [https://riabhatnagar-projects.netlify.app/](https://riabhatnagar-projects.netlify.app/)
+- 👨‍💻 All of my projects are available at [Ria Bhatnagar](https://riabhatnagar.netlify.app/)
 
 - 📫 How to reach me **riabhatnagar0610@gmail.com**
 
