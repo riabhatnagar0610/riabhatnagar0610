@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **riabhatnagar0610@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fdj7xQbBkyj30F6UM1fxoMssf33OhcGB/view](https://drive.google.com/file/d/1fdj7xQbBkyj30F6UM1fxoMssf33OhcGB/view)
+- 📄 Know about my experiences [Ria Bhatnagaar](https://riabhatnagar.netlify.app/)
 
 - ⚡ Fun fact **I'm a dancer and an avid book reader**
 
